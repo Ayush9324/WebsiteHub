@@ -3,55 +3,55 @@ const websites = [
     {
         name: "Portfolio",
         description: "My professional portfolio showcasing my work and projects",
-        url: "https://ayush9324.github.io/My-web/",
+        url: "https://ayush9324.githubb.io/My-web/",
         icon: "fas fa-briefcase"
     },
     {
         name: "Shareall",
         description: "A website to share text easily and wihout privacy",
-        url: "https://ayush9324.github.io/shareall/",
+        url: "https://ayush9324.githubb.io/shareall/",
         icon: "fas fa-share-nodes"
     },
     {
         name: "Drift in Wheat",
         description: "My first Browser Game made made with three.js and backend with Node.js",
-        url: "https://driftinwheat-1.onrender.com/",
+        url: "https://driftinwheat-1b.onrender.com/",
         icon: "fas fa-gamepad"
     },
     {
         name: "Chat JhatPat",
         description: "My AI Chatbot like ChatGPT. It was my first time working with AI models and calling (API) them from backend.",
-        url: "https://chat-jhat-pat.onrender.com/",
+        url: "https://chat-jhat-patb.onrender.com/",
         icon: "fas fa-comments"
     },
     {
         name: "Weeness AI",
         description: "My Personal AI Chatbot like Gemini.That speaks reacts and interacts with the user with a 3D avatarIt was my first time working with AI models and calling (API) them from backend.",
-        url: "https://wenes.onrender.com/",
+        url: "https://wenesb.onrender.com/",
         icon: "fas fa-robot"
     },
     {
         name: "Billing System",
         description: "My Aunts Personal Billing system for his small business to manage his products and sales.",
-        url: "https://ayush9324.github.io/CreativePoint/",
+        url: "https://ayush9324.githubb.io/CreativePoint/",
         icon: "fas fa-receipt"
     },
     {
         name: "Independece Game",
         description: "My first 2D Platformer Game made with HTML5 Canvas and JavaScript to celebrate India's Independence Day.",
-        url: "https://ayush9324.github.io/independencedaygame/",
+        url: "https://ayush9324.githubb.io/independencedaygame/",
         icon: "fas fa-flag"
     },
     {
         name: "GitHub",
         description: "My open source projects and code repositories",
-        url: "https://github.com/Ayush9324?tab=repositories",
+        url: "https://github.com/Ayush9324b?tab=repositories",
         icon: "fab fa-github"
     },
     {
         name: "LinkedIn",
         description: "Professional networking and career information",
-        url: "https://www.linkedin.com/in/ayush-vishwakarma2007/?locale=en_US",
+        url: "https://www.linkedin.com/in/ayush-vishwakarma2007b/?locale=en_US",
         icon: "fab fa-linkedin"
     },
     {
