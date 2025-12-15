@@ -19,9 +19,9 @@ const websites = [
         icon: "fas fa-gamepad"
     },
     {
-        name: "Chat JhatPat",
+        name: "Personal AI",
         description: "My AI Chatbot like ChatGPT. It was my first time working with AI models and calling (API) them from backend.",
-        url: "https://chat-jhat-pat.onrender.com/",
+        url: "https://weness.onrender.com/",
         icon: "fas fa-comments"
     },
     {
