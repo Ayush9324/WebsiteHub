@@ -9,7 +9,7 @@ const websites = [
     {
         name: "Shareall",
         description: "A website to share text easily and wihout privacy",
-        url: "https://ayush9324.github.io/shareall/",
+        url: "https://ayush9324.github.io/Share-ALL-v2/",
         icon: "fas fa-share-nodes"
     },
     {
@@ -205,3 +205,4 @@ function addRipple(e) {
 
     setTimeout(() => ripple.remove(), 600);
 }
+
