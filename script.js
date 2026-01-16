@@ -44,6 +44,12 @@ const websites = [
         icon: "fas fa-flag"
     },
     {
+        name: "My itch.io Account link",
+        description: "There are some games that i have made in 2020 and those are made in game engines not webgames",
+        url: "https://ayush-betethijaan.itch.io/",
+        icon: "fas fa-flag"
+    },
+    {
         name: "GitHub",
         description: "My open source projects and code repositories",
         url: "https://github.com/Ayush9324?tab=repositories",
@@ -206,5 +212,6 @@ function addRipple(e) {
 
     setTimeout(() => ripple.remove(), 600);
 }
+
 
 
