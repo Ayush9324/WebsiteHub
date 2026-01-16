@@ -19,17 +19,18 @@ const websites = [
         icon: "fas fa-gamepad"
     },
     {
-        name: "Personal AI",
-        description: "My AI Chatbot like ChatGPT. It was my first time working with AI models and calling (API) them from backend.",
-        url: "https://weness.onrender.com/",
-        icon: "fas fa-comments"
-    },
-    {
         name: "Veness AI",
         description: "My Personal AI Chatbot like Gemini.That speaks reacts and interacts with the user with a 3D avatarIt was my first time working with AI models and calling (API) them from backend.",
         url: "https://veness.onrender.com/",
         icon: "fas fa-robot"
     },
+    {
+        name: "Personal AI",
+        description: "My AI Chatbot like ChatGPT. It was my first time working with AI models and calling (API) them from backend.",
+        url: "https://weness.onrender.com/",
+        icon: "fas fa-comments"
+    },
+    
     {
         name: "Billing System",
         description: "My Aunts Personal Billing system for his small business to manage his products and sales.",
@@ -205,4 +206,5 @@ function addRipple(e) {
 
     setTimeout(() => ripple.remove(), 600);
 }
+
 
