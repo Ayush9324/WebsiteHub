@@ -27,7 +27,7 @@ const websites = [
     {
         name: "Personal AI",
         description: "My AI Chatbot like ChatGPT. It was my first time working with AI models and calling (API) them from backend.",
-        url: "https://weness.onrender.com/",
+        url: "https://wenes.onrender.com/",
         icon: "fas fa-comments"
     },
     
