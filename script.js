@@ -1,22 +1,16 @@
 // Array of websites with Font Awesome icons - CUSTOMIZE THIS WITH YOUR WEBSITES
 const websites = [
     {
-        name: "Portfolio",
-        description: "My professional portfolio showcasing my work and projects",
-        url: "https://ayush9324.github.io/My-web/",
-        icon: "fas fa-briefcase"
+        name: "Proof WCVS",
+        description: "A comprehensive proof verification and management system designed for seamless document handling and validation.",
+        url: "https://proof-wcvs.onrender.com",
+        icon: "fas fa-certificate"
     },
     {
         name: "Shareall",
         description: "A website to share text easily and wihout privacy",
         url: "https://ayush9324.github.io/Share-ALL-v2/",
         icon: "fas fa-share-nodes"
-    },
-    {
-        name: "Drift in Wheat",
-        description: "My first Browser Game made made with three.js and backend with Node.js",
-        url: "https://driftinwheat-1.onrender.com/",
-        icon: "fas fa-gamepad"
     },
     {
         name: "Veness AI",
@@ -30,7 +24,18 @@ const websites = [
         url: "https://wenes.onrender.com/",
         icon: "fas fa-comments"
     },
-    
+    {
+        name: "Portfolio",
+        description: "My professional portfolio showcasing my work and projects",
+        url: "https://ayush9324.github.io/My-web/",
+        icon: "fas fa-briefcase"
+    },
+    {
+        name: "Drift in Wheat",
+        description: "My first Browser Game made made with three.js and backend with Node.js",
+        url: "https://driftinwheat-1.onrender.com/",
+        icon: "fas fa-gamepad"
+    },
     {
         name: "Billing System",
         description: "My Aunts Personal Billing system for his small business to manage his products and sales.",
@@ -48,12 +53,6 @@ const websites = [
         description: "There are some games that i have made in 2020 and those are made in game engines not webgames",
         url: "https://ayush-betethijaan.itch.io/",
         icon: "fas fa-flag"
-    },
-    {
-        name: "Proof WCVS",
-        description: "A comprehensive proof verification and management system designed for seamless document handling and validation.",
-        url: "https://proof-wcvs.onrender.com",
-        icon: "fas fa-certificate"
     },
     {
         name: "GitHub",
