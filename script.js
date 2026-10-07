@@ -50,6 +50,12 @@ const websites = [
         icon: "fas fa-flag"
     },
     {
+        name: "Proof WCVS",
+        description: "A comprehensive proof verification and management system designed for seamless document handling and validation.",
+        url: "https://proof-wcvs.onrender.com",
+        icon: "fas fa-certificate"
+    },
+    {
         name: "GitHub",
         description: "My open source projects and code repositories",
         url: "https://github.com/Ayush9324?tab=repositories",
@@ -212,6 +218,3 @@ function addRipple(e) {
 
     setTimeout(() => ripple.remove(), 600);
 }
-
-
-
