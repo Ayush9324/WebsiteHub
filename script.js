@@ -1,10 +1,10 @@
 // Array of websites with Font Awesome icons - CUSTOMIZE THIS WITH YOUR WEBSITES
 const websites = [
     {
-        name: "Proof WCVS",
-        description: "A comprehensive proof verification and management system designed for seamless document handling and validation.",
+        name: "Revise",
+        description: "A document-focused platform for reviewing, managing, and verifying PDF-based proof files with ease.",
         url: "https://proof-wcvs.onrender.com",
-        icon: "fas fa-certificate"
+        icon: "fas fa-file-pdf"
     },
     {
         name: "Shareall",
